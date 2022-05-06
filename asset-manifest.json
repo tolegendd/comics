@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comics/static/css/main.5c7c5ce6.css",
+    "main.js": "/comics/static/js/main.82c36f1a.js",
+    "static/js/787.759e47f1.chunk.js": "/comics/static/js/787.759e47f1.chunk.js",
+    "index.html": "/comics/index.html",
+    "main.5c7c5ce6.css.map": "/comics/static/css/main.5c7c5ce6.css.map",
+    "main.82c36f1a.js.map": "/comics/static/js/main.82c36f1a.js.map",
+    "787.759e47f1.chunk.js.map": "/comics/static/js/787.759e47f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c7c5ce6.css",
+    "static/js/main.82c36f1a.js"
+  ]
+}
